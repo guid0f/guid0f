@@ -44,7 +44,7 @@ Juego clásico creado con `Python` y `Pygame`, con interfaz visual, sistema de p
 
 ### 📊 Stats (opcional)
 
-![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuidoFalcone&show_icons=true&theme=tokyonight)
+![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guid0f&show_icons=true&theme=tokyonight)
 
 ---
 
