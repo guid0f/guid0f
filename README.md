@@ -1,8 +1,10 @@
 # 👋 ¡Hola! Soy Guido Falcone
 
-## 💻 Desarrollador Python & Web | Estudiante de TUP | Apasionado por la tecnología
+## 💻 Desarrollador Python & Web | Estudiante de UTN | Apasionado por la tecnología
 
-Soy estudiante de Tecnicatura Universitaria en Programación, entusiasta del desarrollo de videojuegos y aplicaciones web. Me gusta aprender haciendo y mejorar continuamente mis proyectos.
+Soy estudiante de Tecnicatura Universitaria en Programación, entusiasta en el desarrollo de videojuegos y aplicaciones web. Me gusta aprender haciendo y mejorar continuamente mis proyectos.
+
+Mi mas grande objetivo es crear herramientas que puedan facilitar la vida cotidiana de las personas.
 
 ---
 
@@ -29,12 +31,13 @@ Juego clásico creado con `Python` y `Pygame`, con interfaz visual, sistema de p
 - Desarrollo fullstack
 - Algoritmos y estructuras de datos
 - Interfaces visuales y diseño UX/UI
-
+- Bases de datos
+  
 ---
 
 ### 📫 Contacto
 
-- 📧 Email: **tucorreo@gmail.com**
+- 📧 Email: **Falconeguido@hotmail.com**
 - 💼 LinkedIn: [linkedin.com/in/guidofalcone](https://linkedin.com/in/guidofalcone)
 
 ---
