@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Guido Falcone
 
-<!--
-**guid0f/guid0f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Desarrollador Python & Web | Estudiante de TUP | Apasionado por la tecnología
 
-Here are some ideas to get you started:
+Soy estudiante de Tecnicatura Universitaria en Programación, entusiasta del desarrollo de videojuegos y aplicaciones web. Me gusta aprender haciendo y mejorar continuamente mis proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Proyecto destacado
+🎮 **[Buscaminas con Pygame](https://github.com/GuidoFalcone/PYGAME)**  
+Juego clásico creado con `Python` y `Pygame`, con interfaz visual, sistema de puntajes, niveles de dificultad y efectos de sonido.
+
+---
+
+### ⚙️ Tecnologías que uso
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Pygame](https://img.shields.io/badge/-Pygame-333333?style=flat&logo=pygame)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visualstudiocode)
+
+---
+
+### 🌱 Actualmente aprendiendo
+- Desarrollo fullstack
+- Algoritmos y estructuras de datos
+- Interfaces visuales y diseño UX/UI
+- Bases de datos
+---
+
+### 📫 Contacto
+
+- 📧 Email: **falconeguido@hotmail.com**
+- 💼 LinkedIn: [www.linkedin.com/in/guidofalcone]((https://www.linkedin.com/in/guidofalcone/))
+
+---
+
+### 📊 Stats (opcional)
+
+![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=guid0f&show_icons=true&theme=tokyonight)
+
+---
+
+> ✨ ¡Gracias por visitar mi perfil!
