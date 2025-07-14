@@ -7,7 +7,7 @@ Soy estudiante de Tecnicatura Universitaria en Programación, entusiasta del des
 ---
 
 ### 🔭 Proyecto destacado
-🎮 **[Buscaminas con Pygame]([https://github.com/guid0f/PYGAME])**  
+🎮 **[Buscaminas con Pygame]([https://github.com/Guid0f/PYGAME])**  
 Juego clásico creado con `Python` y `Pygame`, con interfaz visual, sistema de puntajes, niveles de dificultad y efectos de sonido.
 
 ---
@@ -28,19 +28,19 @@ Juego clásico creado con `Python` y `Pygame`, con interfaz visual, sistema de p
 - Desarrollo fullstack
 - Algoritmos y estructuras de datos
 - Interfaces visuales y diseño UX/UI
-- Bases de datos
+
 ---
 
 ### 📫 Contacto
 
-- 📧 Email: **falconeguido@hotmail.com**
-- 💼 LinkedIn: [www.linkedin.com/in/guidofalcone]([https://www.linkedin.com/in/guidofalcone/])
+- 📧 Email: **tucorreo@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/guidofalcone](https://linkedin.com/in/guidofalcone)
 
 ---
 
 ### 📊 Stats (opcional)
 
-![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=guid0f&show_icons=true&theme=tokyonight)
+![Guido's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuidoFalcone&show_icons=true&theme=tokyonight)
 
 ---
 
